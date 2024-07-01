@@ -17,7 +17,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^5.2.1"
   },
-  "homepage":"https://bharathr1703.github.io/Bharath_R_Portfolio",
+  "homepage":"https://bharathr1703.github.io/Bharath_R_Portfolio/",
   "devDependencies": {
     "@babel/core": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
